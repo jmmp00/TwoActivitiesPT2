@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="button_main">Choose Items</string>
+    <string name="activity2_name">Items</string>
+    <string name="text_header">Message Received</string>
+    <string name="button_second">BUTTON</string>
+    <string name="text_header_reply">Reply Received</string>
+    <string name="button_second_1">Cheese</string>
+    <string name="button_second_2">Rice</string>
+    <string name="button_second_3">Apples</string>
+    <string name="button_second_4">Water</string>
+    <string name="button_second_5">Broccoli</string>
+    <string name="button_second_6">Pasta</string>
+    <string name="button_second_7">Sugar</string>
+    <string name="button_second_8">Soy Sauce</string>
+    <string name="button_second_9">Lettuce</string>
+    <string name="button_second_10">Oregano</string>
+</resources>

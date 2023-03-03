@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_horizontal|center_vertical"
+    tools:context=".SecondActivity">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_margin="10dp"
+        android:gravity="center_horizontal|center_vertical"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0">
+
+        <Button
+            android:id="@+id/button_second_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:backgroundTint="#00B8D4"
+            android:onClick="returnItem"
+            android:text="@string/button_second_1"
+            android:textColor="#000000" />
+
+        <Button
+            android:id="@+id/button_second_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:backgroundTint="#00B8D4"
+            android:onClick="returnItem"
+            android:text="@string/button_second_2"
+            android:textColor="#000000" />
+
+        <Button
+            android:id="@+id/button_second_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:backgroundTint="#00B8D4"
+            android:onClick="returnItem"
+            android:text="@string/button_second_3"
+            android:textColor="#000000" />
+
+        <Button
+            android:id="@+id/button_second_4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:backgroundTint="#00B8D4"
+            android:onClick="returnItem"
+            android:text="@string/button_second_4"
+            android:textColor="#000000" />
+
+        <Button
+            android:id="@+id/button_second_5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:backgroundTint="#00B8D4"
+            android:onClick="returnItem"
+            android:text="@string/button_second_5"
+            android:textColor="#000000" />
+
+        <Button
+            android:id="@+id/button_second_6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:backgroundTint="#00B8D4"
+            android:onClick="returnItem"
+            android:gravity="center_horizontal"
+            android:text="@string/button_second_6"
+            android:textColor="#000000" />
+
+        <Button
+            android:id="@+id/button_second_7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:backgroundTint="#00B8D4"
+            android:onClick="returnItem"
+            android:text="@string/button_second_7"
+            android:textColor="#000000" />
+
+        <Button
+            android:id="@+id/button_second_8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:backgroundTint="#00B8D4"
+            android:onClick="returnItem"
+            android:text="@string/button_second_8"
+            android:textColor="#000000" />
+
+        <Button
+            android:id="@+id/button_second_9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:backgroundTint="#00B8D4"
+            android:onClick="returnItem"
+            android:text="@string/button_second_9"
+            android:textColor="#000000" />
+
+        <Button
+            android:id="@+id/button_second_10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:backgroundTint="#00B8D4"
+            android:onClick="returnItem"
+            android:text="@string/button_second_10"
+            android:textColor="#000000" />
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
